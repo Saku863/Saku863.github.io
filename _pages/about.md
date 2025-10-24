@@ -66,7 +66,7 @@ Wait and Hope.
 - *2018.09 - 2022.06*, 江西师范大学，经济学学士.
 
 # 💬 Invited Talks
-- *2025.10*，中国数学会数学教育分会2025年学术年会.
+- *2025.10*, 中国数学会数学教育分会2025年学术年会.
 - *2024.06*, 2024 Mathematics Classroom Teaching Research for All Students.
 - *2023.11*, The Third ACME Symposium on Mathematics Education.
 - *2023.06*, 首届粤港澳大湾区数学教育论坛.
