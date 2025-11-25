@@ -27,16 +27,16 @@ Wait and Hope.
 - 数学教师教育
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学教学研究 2025（02）</div><img src='images/500x320.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">黄冈师范学院学报,2025,46(06)</div><img src='images/PixPin_2025-11-25_12-29-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917Xypd3i4UxZTHIs8IPH093c1kl2A25h_yA07027E3pV7JK1D-QGW6JiEAH9VfkzgMr18OsE3GvQHrKKKeVU0iX10L6-COxBJWR2odblK9A3OXEShF_hJPWZP0hWIJ8BClRZf2dSAhMvZWB4thQvw00SVI4kRjZWVxUp1IaocbOVPg==&uniplatform=NZKPT&language=CHS)
+[基于GTAHP的中学数学教师核心素养评价模型构建](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917Xypd3i4UxZTHIs8IPH093c1kl2A25h_yA07027E3pV7JK1D-QGW6JiEAH9VfkzgMr18OsE3GvQHrKKKeVU0iX10L6-COxBJWR2odblK9A3OXEShF_hJPWZP0hWIJ8BClRZf2dSAhMvZWB4thQvw00SVI4kRjZWVxUp1IaocbOVPg==&uniplatform=NZKPT&language=CHS)
 
-**田茂栋**, 库在强, 罗丛林
+库在强,**田茂栋**,彭榕斐,汪锦涛
 
-**Project** 中国教育发展战略学会区域教育专业委员会2024年度项目（QYJYZWH2475）.
-- 面向教学的数学知识（MKT）指教学所需要的数学知识，对数学课堂教学和数学教师发展具有借鉴意义. 研究以MKT为理论基础，构建MKT数学课例研究模式，凸显课例研究中的数学学科属性，实现数学课例研究由行为矫正到知识建构的转变，并选取“函数的奇偶性”一节，具体展示“学科内容知识指导课例准备、学科教学知识组织教学实施、面向教学的数学知识统领总结反馈”课例研究过程，为中学数学课例研究和课堂教学提供理论与实践指引.
-- 课例研究；MKT；函数；奇偶性
+**Project** 中国商业经济学会教育教学改革规划课题（20241030）.
+- 基础教育阶段数学课程标准的不断更新与发展，使教师评价体系的变革变得愈发迫切。因此，构建以教师核心素养为导向的评价体系，已成为教师教育领域亟待解决的重要问题。本研究基于 GTAHP 方法，将质性研究与量化分析相结合。首先，运用大数据分析技术筛选出与教师核心素养高度相关的文献与政策资料，并通过编码提炼出中学数学教师核心素养的六个维度：政治理论素养、数学知识素养、数学文化素养、教学能力素养、教研创新素养以及技术应用素养。其次，在验证性因素分析的基础上，对各级指标进行合理赋权，成功构建了中学数学教师核心素养评价模型。最后，依据该模型，从职前教育、入职培训和职后发展三个阶段提出有针对性的专业发展建议，以期有效推动中学数学教师专业发展的深化与进程。
+- 教师核心素养;评价模型;GTAHP方法;中学数学
 </div>
 </div>
 
@@ -45,7 +45,8 @@ Wait and Hope.
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（核心）<br>
 [3]库在强,**田茂栋**,叶蕾.数字教育背景下数学教学范式创新研究[J].教学与管理,2025,(03):93-97.（核心，人大转载）<br>
-[4]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680（SSCI 中科院Q3）<br>
+[4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,46(06):<br>
+[5]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680（SSCI 中科院Q3）<br>
 ## 2024
 [1]**田茂栋**,库在强,叶蕾.我国数学校本课程发展的现状、特点及建议[J].数学教学研究,2024,43(03):7-11+18.（人大索引）<br>
 [2]**田茂栋**,库在强,叶蕾.基于课例观察的TPACK图谱分析方法与应用个案[J].教育信息技术,2024,(Z2):77-81.<br>
