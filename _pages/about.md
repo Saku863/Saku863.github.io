@@ -27,10 +27,10 @@ Wait and Hope.
 - 数学教师教育
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">黄冈师范学院学报,2025,46(06)</div><img src='images/PixPin_2025-11-25_12-29-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">黄冈师范学院学报,2025,45(06)</div><img src='images/PixPin_2025-11-25_12-29-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于GTAHP的中学数学教师核心素养评价模型构建](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917Xypd3i4UxZTHIs8IPH093c1kl2A25h_yA07027E3pV7JK1D-QGW6JiEAH9VfkzgMr18OsE3GvQHrKKKeVU0iX10L6-COxBJWR2odblK9A3OXEShF_hJPWZP0hWIJ8BClRZf2dSAhMvZWB4thQvw00SVI4kRjZWVxUp1IaocbOVPg==&uniplatform=NZKPT&language=CHS)
+[基于GTAHP的中学数学教师核心素养评价模型构建](https://kns.cnki.net/kcms2/article/abstract?v=-PyPURV5YK2bjOOBeC_spke8YAjuRcYtBxqmDAp2eKX8J-WdLI9KXoURibWLGRNHtok3udB-8DnPUdaQjocWnuPN3kH8iV-jPbEigo1rK__PXYQM3R5PWDF4j5tG8ZUX_hmYNv7xA68WAfimUaIzug==&uniplatform=NZKPT&language=CHS)
 
 库在强,**田茂栋**,彭榕斐,汪锦涛
 
@@ -45,7 +45,7 @@ Wait and Hope.
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（核心）<br>
 [3]库在强,**田茂栋**,叶蕾.数字教育背景下数学教学范式创新研究[J].教学与管理,2025,(03):93-97.（核心，人大转载）<br>
-[4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,46(06):<br>
+[4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,45(06):79-87<br>
 [5]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680（SSCI 中科院Q3）<br>
 ## 2024
 [1]**田茂栋**,库在强,叶蕾.我国数学校本课程发展的现状、特点及建议[J].数学教学研究,2024,43(03):7-11+18.（人大索引）<br>
