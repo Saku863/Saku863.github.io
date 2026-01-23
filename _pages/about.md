@@ -27,20 +27,23 @@ Wait and Hope.
 - 数学教师教育
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">黄冈师范学院学报,2025,45(06)</div><img src='images/PixPin_2025-11-25_12-29-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">教育测量与评价,2026网络首发</div><img src='images/PixPin_2026-01-23_17-51-28.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于GTAHP的中学数学教师核心素养评价模型构建](https://kns.cnki.net/kcms2/article/abstract?v=-PyPURV5YK2bjOOBeC_spke8YAjuRcYtBxqmDAp2eKX8J-WdLI9KXoURibWLGRNHtok3udB-8DnPUdaQjocWnuPN3kH8iV-jPbEigo1rK__PXYQM3R5PWDF4j5tG8ZUX_hmYNv7xA68WAfimUaIzug==&uniplatform=NZKPT&language=CHS)
+[基于数字游戏的学习对中小学生数学学习效果影响的元分析](https://kns.cnki.net/kcms2/article/abstract?v=PZRn9VlzpTbcff_imw6Bh5O84Uc7eiKGsbaWCjsrHU6oBMNN0RaeLtlRS7phNuclCUa4W6qpv8wmEFWmt3qKtd9uPsZo6BzF-W4qFZpJUMatqH7robPssx3adJeXGjfcyY8MpxD9oHsYLPHDZXemwn_4ac1xmUj1W8P06QXsPxoMBFQmBDMrzg==&uniplatform=NZKPT&language=CHS)
 
-库在强,**田茂栋**,彭榕斐,汪锦涛
+**田茂栋**,库在强,胡典顺
 
-**Project** 中国商业经济学会教育教学改革规划课题（20241030）.
-- 基础教育阶段数学课程标准的不断更新与发展，使教师评价体系的变革变得愈发迫切。因此，构建以教师核心素养为导向的评价体系，已成为教师教育领域亟待解决的重要问题。本研究基于 GTAHP 方法，将质性研究与量化分析相结合。首先，运用大数据分析技术筛选出与教师核心素养高度相关的文献与政策资料，并通过编码提炼出中学数学教师核心素养的六个维度：政治理论素养、数学知识素养、数学文化素养、教学能力素养、教研创新素养以及技术应用素养。其次，在验证性因素分析的基础上，对各级指标进行合理赋权，成功构建了中学数学教师核心素养评价模型。最后，依据该模型，从职前教育、入职培训和职后发展三个阶段提出有针对性的专业发展建议，以期有效推动中学数学教师专业发展的深化与进程。
-- 教师核心素养;评价模型;GTAHP方法;中学数学
+**Project** 	2025年湖北省教育科学规划课题（2025GA036）.
+- 在教育数字化背景下，数字技术与学科教学的深度融合是当前教育改革的重要方向。基于数字游戏的学习对于激发学生学习兴趣、培养学生创造能力等具有独特优势。为明确其影响效果与作用机制，采用元分析方法对30项实验或准实验研究进行主效应检验和调节效应检验。结果表明：基于数字游戏的学习对中小学生的数学学习效果具有中等程度的正向影响；游戏内容、游戏氛围和实验周期对数学学习效果具有显著调节效应，学生的文化背景、学段，以及游戏类型、游戏目的等变量的调节效应则不显著。为进一步优化基于数字游戏的数学教学设计与实践，推动中小学数学教育数字化转型与高质量发展，建议教师合理确定游戏应用场景，践行实验教学理念，同时精心选择游戏内容，营造适应性游戏氛围，并适度控制游戏使用周期，从而深化学生学习体验，调节学习情绪，切实提升学习成效。
+- 教育数字化;数字游戏;数学学习;学习效果;元分析
 </div>
 </div>
 
 # 📝 Publications 
+## 2026
+[1]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J/OL].教育测量与评价,1-15[2026-01-23].
+
 ## 2025
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（核心）<br>
