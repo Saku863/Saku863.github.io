@@ -44,13 +44,13 @@ Wait and Hope.
 ## 2026
 [1]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
 [2]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
-[3]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8（SSCI 中科院Q3）<br>
+[3]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
 ## 2025
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（北大核心）<br>
 [3]库在强,**田茂栋**,叶蕾.数字教育背景下数学教学范式创新研究[J].教学与管理,2025,(03):93-97.（北大核心，人大转载）<br>
-[4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,45(06):79-87<br>
-[5]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680（SSCI 中科院Q3）<br>
+[4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,45(06):79-87.<br>
+[5]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680.（SSCI 中科院Q3）<br>
 [6]库在强,叶蕾,**田茂栋**.基于NVivo软件的数学教育硕士课程思政体系建设研究[J].课程思政教学研究,2025,8(01):143-153.<br>
 ## 2024
 [1]**田茂栋**,库在强,叶蕾.我国数学校本课程发展的现状、特点及建议[J].数学教学研究,2024,43(03):7-11+18.（人大索引）<br>
