@@ -27,24 +27,25 @@ Wait and Hope.
 - 数学教师教育
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">教育测量与评价,2026网络首发</div><img src='images/PixPin_2026-01-23_17-51-28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">比较教育学报,2026网络首发</div><img src='images/PixPin_2026-06-18_23-31-48.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于数字游戏的学习对中小学生数学学习效果影响的元分析](https://kns.cnki.net/kcms2/article/abstract?v=PZRn9VlzpTbcff_imw6Bh5O84Uc7eiKGsbaWCjsrHU6oBMNN0RaeLtlRS7phNuclCUa4W6qpv8wmEFWmt3qKtd9uPsZo6BzF-W4qFZpJUMatqH7robPssx3adJeXGjfcyY8MpxD9oHsYLPHDZXemwn_4ac1xmUj1W8P06QXsPxoMBFQmBDMrzg==&uniplatform=NZKPT&language=CHS)
+[中国教师数字资源及工具应用的国际比较、影响因素及发展路径](https://kns.cnki.net/kcms2/article/abstract?v=nTS8fe6ew4o4JN9a-vhUv7KcjDYjOvK2vO_Xt3VDd5JbuoWBhN8BkNYimSuGub2ggxRLP2Ca61o60kRWp4XKNmdseflTiAgnpfI74kXfZlEavWBY-kg_ChCmlfb5Te5zLBB_Vm3MB6qi-1j3ZgvNznd-hOkpsrY5jGkAtEozKzbhL7XUUdSXWg==&uniplatform=NZKPT&language=CHS)
 
-**田茂栋**,库在强,胡典顺
+**田茂栋**,徐金润,胡典顺
 
 **Project** 	2025年湖北省教育科学规划课题（2025GA036）.
-- 在教育数字化背景下，数字技术与学科教学的深度融合是当前教育改革的重要方向。基于数字游戏的学习对于激发学生学习兴趣、培养学生创造能力等具有独特优势。为明确其影响效果与作用机制，采用元分析方法对30项实验或准实验研究进行主效应检验和调节效应检验。结果表明：基于数字游戏的学习对中小学生的数学学习效果具有中等程度的正向影响；游戏内容、游戏氛围和实验周期对数学学习效果具有显著调节效应，学生的文化背景、学段，以及游戏类型、游戏目的等变量的调节效应则不显著。为进一步优化基于数字游戏的数学教学设计与实践，推动中小学数学教育数字化转型与高质量发展，建议教师合理确定游戏应用场景，践行实验教学理念，同时精心选择游戏内容，营造适应性游戏氛围，并适度控制游戏使用周期，从而深化学生学习体验，调节学习情绪，切实提升学习成效。
-- 教育数字化;数字游戏;数学学习;学习效果;元分析
+- 教师数字资源及工具应用是衡量一国教育现代化水平的重要标志。研究基于TALIS 2024数据与中国（上海）教师样本，综合运用方差分析、多元线性回归与模糊集定性比较分析方法，对教师数字资源及工具应用展开国际比较、影响因素与发展路径分析。研究发现，上海教师数字资源及工具应用整体处于国际较高水平，但数字化评价应用相对薄弱；教师数字资源及工具应用主要受教师准备度、技术使用自我效能感、感知有用性、感知风险性和专业学习活动影响，性别、学历等背景变量的解释力相对有限；进一步的组态分析表明，教师数字资源及工具应用存在“规范整合型”与“技能支撑型”两类路径。研究为提升我国教师数字化教学能力提供了国际参照、实证支撑与路径启示。
+- 数字资源及工具;国际比较;影响因素;发展路径;TALIS 2024;
 </div>
 </div>
 
 # 📝 Publications 
 ## 2026
-[1]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
-[2]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
-[3]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
+[1]田茂栋,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
+[2]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
+[3]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
+[4]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
 ## 2025
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（北大核心）<br>
