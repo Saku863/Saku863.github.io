@@ -42,7 +42,7 @@ Wait and Hope.
 
 # 📝 Publications 
 ## 2026
-[1]田茂栋,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
+[1]**田茂栋**,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
 [2]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
 [3]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
 [4]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
