@@ -27,25 +27,26 @@ Wait and Hope.
 - 数学教师教育
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">比较教育学报,2026网络首发</div><img src='images/PixPin_2026-06-18_23-31-48.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学教育学报,2026网络首发</div><img src='images/PixPin_2026-07-03_20-31-46.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[中国教师数字资源及工具应用的国际比较、影响因素及发展路径](https://kns.cnki.net/kcms2/article/abstract?v=nTS8fe6ew4o4JN9a-vhUv7KcjDYjOvK2vO_Xt3VDd5JbuoWBhN8BkNYimSuGub2ggxRLP2Ca61o60kRWp4XKNmdseflTiAgnpfI74kXfZlEavWBY-kg_ChCmlfb5Te5zLBB_Vm3MB6qi-1j3ZgvNznd-hOkpsrY5jGkAtEozKzbhL7XUUdSXWg==&uniplatform=NZKPT&language=CHS)
+[高中数学教师MKT的比较研究：基于认知网络的分析](https://kns.cnki.net/kcms2/article/abstract?v=QP2K49WHhinXEvldASMSGDlywVgEKYFl6hTKCdlUdi_ujXKTFv7Bf6WZyDV6UIehqe_OkMl2v-LHoIxFtexJJlbndrQva8Wad8pn8PZ0c4cFyxki91PU5GCOWJSoD2_oWCE_Aw9Gelft-T3_ubCNV9GNTUKcMhSXi-WjeyisiJf2q0psDFyOsg==&uniplatform=NZKPT&language=CHS)
 
 **田茂栋**,徐金润,胡典顺
 
-**Project** 	2025年湖北省教育科学规划课题（2025GA036）.
-- 教师数字资源及工具应用是衡量一国教育现代化水平的重要标志。研究基于TALIS 2024数据与中国（上海）教师样本，综合运用方差分析、多元线性回归与模糊集定性比较分析方法，对教师数字资源及工具应用展开国际比较、影响因素与发展路径分析。研究发现，上海教师数字资源及工具应用整体处于国际较高水平，但数字化评价应用相对薄弱；教师数字资源及工具应用主要受教师准备度、技术使用自我效能感、感知有用性、感知风险性和专业学习活动影响，性别、学历等背景变量的解释力相对有限；进一步的组态分析表明，教师数字资源及工具应用存在“规范整合型”与“技能支撑型”两类路径。研究为提升我国教师数字化教学能力提供了国际参照、实证支撑与路径启示。
-- 数字资源及工具;国际比较;影响因素;发展路径;TALIS 2024;
+**Project** 	中国教育学会2024年度教育科研规划课题（202416293813B）；2025年湖北省教育科学规划课题（2025GA036）.
+- 教师的知识结构是影响教师教学质量与学生学习成效的重要因素．运用认知网络分析方法，对8位高中数学教师的MKT进行编码，并构建认知网络模型，比较不同教师群体与课程类型的知识结构差异．发现：（1）整体认知网络中，SCK处于核心地位，与CCK、KCS和KCT形成稳定结构，而HCK与KCC相对边缘；（2）专家型教师更注重PCK，其认知网络结构更为紧密复杂，而新手教师则更依赖SMK，结构较为单一；（3）新授课中两类教师均未形成稳定的模式，但专家型教师的知识整合度更高；习题课中两类教师的组间差异不显著，但专家型教师组内差异小，教学更稳定．研究表明，认知网络分析有助于揭示不同发展阶段教师MKT的结构差异，并为教师专业发展与课堂改进提供依据． 
+- 高中数学教师；MKT；认知网络分析；比较研究
 </div>
 </div>
 
 # 📝 Publications 
 ## 2026
-[1]**田茂栋**,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
-[2]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
-[3]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
-[4]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
+[1]**田茂栋**,徐金润,胡典顺.高中数学教师MKT的比较研究：基于认知网络的分析[J/OL].数学教育学报,1-8[2026-07-03].（CSSCI扩展版）<br>
+[2]**田茂栋**,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
+[3]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
+[4]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
+[5]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
 ## 2025
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（北大核心）<br>
