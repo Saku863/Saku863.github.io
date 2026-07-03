@@ -32,8 +32,7 @@ Wait and Hope.
 
 [高中数学教师MKT的比较研究：基于认知网络的分析](https://kns.cnki.net/kcms2/article/abstract?v=QP2K49WHhinXEvldASMSGDlywVgEKYFl6hTKCdlUdi_ujXKTFv7Bf6WZyDV6UIehqe_OkMl2v-LHoIxFtexJJlbndrQva8Wad8pn8PZ0c4cFyxki91PU5GCOWJSoD2_oWCE_Aw9Gelft-T3_ubCNV9GNTUKcMhSXi-WjeyisiJf2q0psDFyOsg==&uniplatform=NZKPT&language=CHS)
 
-**田茂栋**,徐金润,胡典顺
-
+**田茂栋**,徐金润,胡典顺<br>
 **Project** 	中国教育学会2024年度教育科研规划课题（202416293813B）；2025年湖北省教育科学规划课题（2025GA036）.
 - 教师的知识结构是影响教师教学质量与学生学习成效的重要因素．运用认知网络分析方法，对8位高中数学教师的MKT进行编码，并构建认知网络模型，比较不同教师群体与课程类型的知识结构差异．发现：（1）整体认知网络中，SCK处于核心地位，与CCK、KCS和KCT形成稳定结构，而HCK与KCC相对边缘；（2）专家型教师更注重PCK，其认知网络结构更为紧密复杂，而新手教师则更依赖SMK，结构较为单一；（3）新授课中两类教师均未形成稳定的模式，但专家型教师的知识整合度更高；习题课中两类教师的组间差异不显著，但专家型教师组内差异小，教学更稳定．研究表明，认知网络分析有助于揭示不同发展阶段教师MKT的结构差异，并为教师专业发展与课堂改进提供依据． 
 - 高中数学教师；MKT；认知网络分析；比较研究
