@@ -32,8 +32,8 @@ Wait and Hope.
 
 [AI-TPACK下中学数学教师人工智能能力影响因素与发展路径分析——基于PLS-SEM与fsQCA的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=QP2K49WHhinXEvldASMSGDlywVgEKYFl6hTKCdlUdi_ujXKTFv7Bf6WZyDV6UIehqe_OkMl2v-LHoIxFtexJJlbndrQva8Wad8pn8PZ0c4cFyxki91PU5GCOWJSoD2_oWCE_Aw9Gelft-T3_ubCNV9GNTUKcMhSXi-WjeyisiJf2q0psDFyOsg==&uniplatform=NZKPT&language=CHS)
 
-**田茂栋**,徐金润<br>
-**Project**  2025年湖北省教育科学规划课题（2025GA036）;中央高校基本科研业务费资助 (优创项目)(2026CXTD016).
+**Author**：**田茂栋**,徐金润<br>
+**Project**：2025年湖北省教育科学规划课题（2025GA036）;中央高校基本科研业务费资助 (优创项目)(2026CXTD016).
 - 教师是教育高质量发展的第一资源，教师整合人工智能技术的学科教学知识(AI-TPACK)为其人工智能能力发展提供了理论框架与实践指引。研究以AI-TPACK为理论依据，整合技术接受和使用整合模型与人工智能伦理，运用偏最小二乘结构方程模型(PLS-SEM)和模糊集定性比较分析(fsQCA)探究中学数学教师人工智能能力影响因素与发展路径。PLS-SEM发现：便利条件、行为意向、人工智能伦理对中学数学教师人工智能能力具有直接影响，绩效期望、努力期望、社会影响通过中介路径产生间接效应；fsQCA进一步揭示出发展数学教师人工智能能力可归纳为“外因驱动型”和“内驱保障型”两类路径。研究为提升中学数学教师人工智能能力提供了实证支撑与路径启示。
 - 中学数学教师;AI-TPACK;人工智能能力;影响因素;发展路径
 </div>
