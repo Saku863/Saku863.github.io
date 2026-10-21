@@ -54,6 +54,7 @@ Wait and Hope.
 [4]库在强,**田茂栋**,彭榕斐,等.基于GTAHP的中学数学教师核心素养评价模型构建[J].黄冈师范学院学报,2025,45(06):79-87.<br>
 [5]库在强,叶蕾,**田茂栋**.基于NVivo软件的数学教育硕士课程思政体系建设研究[J].课程思政教学研究,2025,8(01):143-153.<br>
 [6]Xu, J., Shen, R., **Tian, M.**, & Hu, D. (2025). A multi-method study on influencing factors of teachers’ willingness to use generative artificial intelligence. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2025.2535680.（SSCI 中科院Q3）<br>
+[7]Xu, J., Shen, R., Li, J., Hu, D & **Tian, M.**. (2025). Artificial intelligence literacy among Chinese Master of Education students: Current situation, influencing factors and generative pathways. Australasian Journal of Educational Technology, 41(6), 1–17. https://doi.org/10.14742/ajet.10656.（SSCI 中科院Q3）<br>
 ## 2024
 [1]**田茂栋**,库在强,叶蕾.我国数学校本课程发展的现状、特点及建议[J].数学教学研究,2024,43(03):7-11+18.（人大索引）<br>
 [2]**田茂栋**,库在强,叶蕾.基于课例观察的TPACK图谱分析方法与应用个案[J].教育信息技术,2024,(Z2):77-81.<br>
@@ -75,9 +76,10 @@ Wait and Hope.
 - 黄冈市教育科学规划2023年度课题“教育数字化赋能数学教育的路径及策略研究”（2023JB13）
 
 # 🎖 Honors and Awards
+- *2026.10* 华中师范大学2025-2026年度优秀研究生
 - *2025.04* 黄冈师范学院2024“魅力学子” .
 - *2024.11* 2024“华为杯”第二十一届研究生数学建模竞赛，二等奖.
-- *2024.11* 研究生国家奖学金.
+- *2024.11* 黄冈师范学院2024-2025年度研究生国家奖学金.
 
 # 📖 Educations
 - *2025.09 - 至今*, 华中师范大学，数学博士. 
@@ -86,6 +88,7 @@ Wait and Hope.
 
 # 💬 Invited Talks
 - *2025.10*, 中国数学会数学教育分会2025年学术年会.
+- *2024.11*, 湖北省数学学会数学教育专业委员会2024年学术年会.
 - *2024.06*, 2024 Mathematics Classroom Teaching Research for All Students.
 - *2023.11*, The Third ACME Symposium on Mathematics Education.
 - *2023.06*, 首届粤港澳大湾区数学教育论坛.
