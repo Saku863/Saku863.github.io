@@ -30,7 +30,7 @@ Wait and Hope.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">当代教育与文化,2026：18（5）</div><img src='images/PixPin_2026-09-07_14-11-09.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AI-TPACK下中学数学教师人工智能能力影响因素与发展路径分析——基于PLS-SEM与fsQCA的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=QP2K49WHhinXEvldASMSGDlywVgEKYFl6hTKCdlUdi_ujXKTFv7Bf6WZyDV6UIehqe_OkMl2v-LHoIxFtexJJlbndrQva8Wad8pn8PZ0c4cFyxki91PU5GCOWJSoD2_oWCE_Aw9Gelft-T3_ubCNV9GNTUKcMhSXi-WjeyisiJf2q0psDFyOsg==&uniplatform=NZKPT&language=CHS)
+[AI-TPACK下中学数学教师人工智能能力影响因素与发展路径分析——基于PLS-SEM与fsQCA的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=dKhQaqXfb3-HmqzvXZEOYMxRGbOpmj-htFI50anbS_jlio4Fcg4vZYNfeFUWkwnMDe-5MAzHqxVN3-QSDImFqy5C-MSHl_CDtxX7tfJFGFkhxPMuTbeD-fi3qqNv3x-TveN7s7ZMKIXHHVB8xsPcGBBYczl4g2JrNweeweLWGgPjdp6pI3L-9A==)
 
 **Author**：**田茂栋**,徐金润<br>
 **Project**：2025年湖北省教育科学规划课题（2025GA036）;中央高校基本科研业务费资助 (优创项目)(2026CXTD016).
@@ -41,10 +41,10 @@ Wait and Hope.
 
 # 📝 Publications 
 ## 2026
-[1]**田茂栋**,徐金润,胡典顺.高中数学教师MKT的比较研究：基于认知网络的分析[J/OL].数学教育学报,1-8[2026-07-03].（CSSCI扩展版）<br>
-[2]**田茂栋**,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J/OL].比较教育学报,1-16[2026-06-18].（CSSCI扩展版）.<br>
+[1]**田茂栋**,徐金润,胡典顺.高中数学教师MKT的比较研究：基于认知网络的分析[J].数学教育学报,2026,35(4):1-8.（CSSCI扩展版）<br>
+[2]**田茂栋**,徐金润,胡典顺.中国教师数字资源及工具应用的国际比较、影响因素及发展路径——基于TALIS 2024上海教师数据的分析[J].比较教育学报,2026,(5):146-160.（CSSCI扩展版）<br>
 [3]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
-[4]<br>
+[4]**田茂栋**,徐金润.AI-TPACK下中学数学教师人工智能能力影响因素与发展路径分析——基于PLS-SEM与fsQCA的实证研究[J].当代教育与文化,2026,18(5):67-76+97.<br>
 [5]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
 [6]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
 ## 2025
