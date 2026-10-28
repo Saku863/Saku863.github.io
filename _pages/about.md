@@ -46,7 +46,9 @@ Wait and Hope.
 [3]**田茂栋**,库在强,胡典顺.基于数字游戏的学习对中小学生数学学习效果影响的元分析[J].教育测量与评价,2026,(02):53-65.<br>
 [4]**田茂栋**,徐金润.AI-TPACK下中学数学教师人工智能能力影响因素与发展路径分析——基于PLS-SEM与fsQCA的实证研究[J].当代教育与文化,2026,18(5):67-76+97.<br>
 [5]徐金润,**田茂栋**,胡典顺.教师生成式人工智能依赖量表:开发与应用[J].远程教育杂志,2026,44(01):92-102+112.（CSSCI）<br>
-[6]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
+[6]Jinrun Xu, **Maodong Tian**, Songtao Huang, Kunli Li, Fangfang Peng & Dianshun Hu (20 Oct 2026): Mathematics teachers’ AI-TMPK: exploring structural relationships and latent profiles, Interactive Learning Environments, https://doi.org/10.1080/10494820.2026.2750864.（SSCI 中科院Q3）<br>
+[7]Xu, J., **Tian, M.**, Peng, F., Hu, D., & Liu, M. (2026). The relationship between teachers’ GAI use and students’ social-emotional competence: the chain-mediating roles of teachers’ AI literacy and AI self-efficacy. BMC Psychology, 14(1), 689.https://doi.org/10.1186/s40359-026-04484-8.（SSCI 中科院Q3）<br>
+
 ## 2025
 [1]**田茂栋**,库在强,罗丛林.基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例[J].数学教学研究,2025,44(02):37-42.（人大转载）<br>
 [2]库在强,**田茂栋**,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（北大核心）<br>
